@@ -51,13 +51,13 @@ const EduandExp = () => {
               <div>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2022 - Present
+                  2023 - Present
                 </div>
                 <h3 className="qualification__title">
-                  Georgia Institute of Technology
+                  University of Washington Seattle
                 </h3>
                 <span className="qualification__subtitle">
-                  Computer Science
+                  Computer Science & Engineering
                 </span>
               </div>
             </div>
@@ -66,13 +66,13 @@ const EduandExp = () => {
               <div>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2021 - 2022
+                  2022 - 2023
                 </div>
                 <h3 className="qualification__title">
-                  UC - San Diego [Transferred]
+                  University of Washington Bothell [Transferred]
                 </h3>
                 <span className="qualification__subtitle">
-                  Mathematics and Computer Science
+                  Computer Science & Software Engineering
                 </span>
               </div>
               <div>
@@ -89,7 +89,7 @@ const EduandExp = () => {
               <div>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i>
-                  2017-2021
+                  2018-2022
                 </div>
                 <h3 className="qualification__title">
                   Liberty High Sr. School
@@ -117,7 +117,9 @@ const EduandExp = () => {
                   <i className="uil uil-calendar-alt"></i>
                   Summer 2023
                 </div>
-                <h3 className="qualification__title">Software Engineer Intern?</h3>
+                <h3 className="qualification__title">
+                  Software Engineer Intern?
+                </h3>
                 <span className="qualification__subtitle">
                   Your Company Here
                 </span>

@@ -1,5 +1,5 @@
 import PortfolioPic from "../../assets/portfolio.png";
-import Budget from "../../assets/budgeting.png";
+import Budget from "../../assets/tmobile.png";
 import Climate from "../../assets/climate.jpg";
 import Ecommerce from "../../assets/ecommerce.png";
 import md from "../../assets/markdown.png";

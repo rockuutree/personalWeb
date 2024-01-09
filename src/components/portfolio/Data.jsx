@@ -1,10 +1,10 @@
 import PortfolioPic from "../../assets/portfolio.png";
-import Budget from "../../assets/tmobile.png";
-import Climate from "../../assets/climate.jpg";
+import Tmobile from "../../assets/tmobile.png";
+import Zonos from "../../assets/zonos.PNG";
 import Ecommerce from "../../assets/ecommerce.png";
-import md from "../../assets/markdown.png";
+import Autofill from "../../assets/googleAuto.PNG";
 import maze from "../../assets/maze.png";
-import sukoshi from "../../assets/sukoshi.jpg";
+import Livecop from "../../assets/livecop.PNG";
 export const projectsData = [
   {
     id: 1,
@@ -18,22 +18,22 @@ export const projectsData = [
     image: PortfolioPic,
     title: "Portfolio Website",
     category: "Web Apps",
-    link: "https://github.com/vjwuGT/personal-site",
+    link: "https://github.com/rockuutree/personalWeb",
   },
   {
     id: 3,
     // screenshot in assets
-    image: Budget,
-    title: "Budgeting Web App",
+    image: Tmobile,
+    title: "T-Mobile Assistant",
     category: "Web Apps",
-    link: "https://github.com/vjwuGT/budgetingApp",
+    link: "https://devpost.com/software/t-mobile-assistant",
   },
   {
     id: 4,
-    image: md,
-    title: "Markdown Parser",
+    image: Autofill,
+    title: "Chrome Autofill Browser Extension",
     category: "Scripts and Programs",
-    link: "https://github.com/vjwuGT/markdown-parser",
+    link: "https://github.com/rockuutree/autofill-extension",
   },
   {
     id: 5,
@@ -44,17 +44,17 @@ export const projectsData = [
   },
   {
     id: 6,
-    image: sukoshi,
-    title: "Restaurant Review - Sukoshi",
+    image: Livecop,
+    title: "Sneaker Bot Live Demonstration",
     category: "Videos",
-    link: "https://www.youtube.com/watch?v=Tz09QiXR8h0",
+    link: "https://www.youtube.com/watch?v=de81TCi20WM",
   },
   {
     id: 7,
-    image: Climate,
-    title: "Climate Change Video",
+    image: Zonos,
+    title: "Live Cop Using Monitor & Autofill",
     category: "Videos",
-    link: "https://www.youtube.com/watch?v=gqaG0F7Es-w&feature=youtu.be",
+    link: "https://www.youtube.com/watch?v=Xmew4vgeIG8",
   },
 ];
 

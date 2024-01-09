@@ -1,17 +1,17 @@
 import PortfolioPic from "../../assets/portfolio.png";
 import Tmobile from "../../assets/tmobile.png";
 import Zonos from "../../assets/zonos.PNG";
-import Ecommerce from "../../assets/ecommerce.png";
+import Lab from "../../assets/lab.jpg";
 import Autofill from "../../assets/googleAuto.PNG";
-import maze from "../../assets/maze.png";
+import pydata from "../../assets/pydata.PNG";
 import Livecop from "../../assets/livecop.PNG";
 export const projectsData = [
   {
     id: 1,
-    image: Ecommerce,
-    title: "E-commerce Web App [IN PROGRESS]",
+    image: Lab,
+    title: "In the works [IN PROGRESS]",
     category: "Web Apps",
-    link: "https://github.com/vjwuGT/ecommercepage",
+    link: "",
   },
   {
     id: 2,
@@ -37,10 +37,10 @@ export const projectsData = [
   },
   {
     id: 5,
-    image: maze,
-    title: "Stack and Queue Maze Solver",
+    image: pydata,
+    title: "Health Care Scheduler System",
     category: "Scripts and Programs",
-    link: "https://github.com/vjwuGT/maze-solver/tree/main",
+    link: "https://github.com/rockuutree/vaccineQueryManager",
   },
   {
     id: 6,

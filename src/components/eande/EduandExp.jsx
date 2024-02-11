@@ -57,7 +57,28 @@ const EduandExp = () => {
                   University of Washington Seattle
                 </h3>
                 <span className="qualification__subtitle">
-                  Computer Science & Engineering
+                  Computer Science - Paul G. Allen School of Computer Science & Engineering
+                </span>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div></div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i>
+                  2023 - Present
+                </div>
+                <h3 className="qualification__title">
+                  University of Washington Seattle
+                </h3>
+                <span className="qualification__subtitle">
+                  Informatics - Information School
                 </span>
               </div>
             </div>
@@ -109,34 +130,10 @@ const EduandExp = () => {
             <div className="qualification__data">
               <div></div>
               <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-              <div>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>
-                  Summer 2023
-                </div>
-                <h3 className="qualification__title">
-                  Software Engineer Intern?
-                </h3>
-                <span className="qualification__subtitle">
-                  Your Company Here
-                </span>
               </div>
             </div>
 
             <div className="qualification__data">
-              <div>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>
-                  May 2021 - September 2021
-                </div>
-                <h3 className="qualification__title">
-                  Technology Sales Associate
-                </h3>
-                <span className="qualification__subtitle">Staples Inc.</span>
-              </div>
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>

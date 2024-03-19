@@ -1,6 +1,6 @@
-# Old React Website [THIS REPOSITORY IS DEPRECATED]
+## Old React Website [THIS REPOSITORY IS DEPRECATED]
 
-## This is my personal website. 
+### This is my personal website. 
 
 [Link to the website](https://vuryan.com)
 

@@ -1,4 +1,4 @@
-# Old React Website {THIS REPOSITORY IS DEPRECATED} 
+# Old React Website [THIS REPOSITORY IS DEPRECATED]
 
 ## This is my personal website. 
 
